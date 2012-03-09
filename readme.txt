@@ -1,4 +1,4 @@
-=== WP BandCamp ===
+=== Kony2012 ===
 Tags: kony2012,banner,advert,invisible children
 Requires at least: 3.0
 Tested up to: 3.1
